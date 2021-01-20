@@ -2,6 +2,7 @@
 layout: post
 categories: welcome
 title: Welcome To My Blog
+permalink: /prelim/quiz13
 ---
 # Welcome To This Blog!
 
