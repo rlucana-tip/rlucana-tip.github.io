@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Nerd, Geek, Boring guy
+Non-gamer, Liesure cyclist, Boring Guy
 
 ### Contact me
 
-1.) Email: [blog@ajohnsc.com](mailto:blog@ajohnsc.com)
+1.) Email: [qrelucana@tip.edu.ph](mailto:qrelucana@tip.edu.ph)
 
-2.) Facebook: [AJ Canlas](http://fb.com/ajohnsc)
+2.) Facebook: [Reinhold Lucana](http://fb.com/REINHOLDshine824)
 
-3.) LinkedIn: [Aaron John Canlas](https://www.linkedin.com/in/aaron-john-canlas-3894ba104)
-
-4.) Github: [ajohnsc](https://github.com/ajohnsc)
+3.) Github: [rlucana-tip](https://github.com/rlucana-tip)
