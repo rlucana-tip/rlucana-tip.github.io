@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Non-gamer, Liesure cyclist, Boring Guy
+Non-gamer, Leisure cyclist, Boring Guy
 
 ### Contact me
 
