@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Final
+title: Final Period
 permalink: /final/
 ---
 
-# This is a Directory Page
+## Quizzes
 
+[Quiz 5.1](https://rlucana-tip.github.io/final/quiz51)
 
+## Major Exam
+
+[Final Exam](https://rlucana-tip.github.io/final/final-exam)
 
