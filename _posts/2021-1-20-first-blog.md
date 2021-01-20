@@ -2,7 +2,6 @@
 layout: post
 categories: welcome
 title: RHL SysAd Portfolio
-permalink: /prelim/quiz1
 ---
 # Welcome To This Blog!
 
