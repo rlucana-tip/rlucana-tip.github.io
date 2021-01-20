@@ -16,13 +16,13 @@ permalink: /prelim/
 
 ## Activities
 
-[HA 2](https://rlucana-tip.github.io/prelim/activity2)
+[Hands-On Activity 2](https://rlucana-tip.github.io/prelim/activity2)
 
-[HA 3](https://rlucana-tip.github.io/prelim/activity3)
+[Hands-On Activity 3](https://rlucana-tip.github.io/prelim/activity3)
 
-[HA 4](https://rlucana-tip.github.io/prelim/activity4)
+[Hands-On Activity 4](https://rlucana-tip.github.io/prelim/activity4)
 
-[HA 5](https://rlucana-tip.github.io/prelim/activity5)
+[Hands-On Activity 5](https://rlucana-tip.github.io/prelim/activity5)
 
 ## Major Exam
 
