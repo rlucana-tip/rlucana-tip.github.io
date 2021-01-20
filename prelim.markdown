@@ -6,5 +6,5 @@ permalink: /Prelim/
 
 # This is a Directory Page
 
-[Quiz 1.3] (https://rlucana-tip.github.io/prelim/quiz13)
+[Quiz 1.3](https://rlucana-tip.github.io/prelim/quiz13)
 
