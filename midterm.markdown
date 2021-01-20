@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Midterm
-permalink: /Midterm/
+permalink: /midterm/
 ---
 
 # This is a Directory Page

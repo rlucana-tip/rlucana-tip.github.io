@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prelim
-permalink: /Prelim/
+permalink: /prelim/
 ---
 
 # This is a Directory Page

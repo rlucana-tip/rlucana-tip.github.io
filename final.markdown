@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final
-permalink: /Final/
+permalink: /final/
 ---
 
 # This is a Directory Page
